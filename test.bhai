@@ -1,0 +1,8 @@
+return 43;
+
+
+//convert above to 
+
+global _start
+start:
+ mov rax, 60,
